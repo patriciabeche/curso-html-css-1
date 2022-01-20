@@ -1,3 +1,5 @@
 # Meu primeiro curso de HTML e CSS
 
-![alt text](./print.png)
+![home](./prints/print.png)
+
+![produtos](./prints/produtos.png)
